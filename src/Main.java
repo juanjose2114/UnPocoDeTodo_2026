@@ -2,7 +2,7 @@
 // click the <icon src="AllIcons.Actions.Execute"/> icon in the gutter.
 public class Main{
 
-    public static void main(){
-        System.out.println("First commit, no ramas");
+    public static void main() {
+        Matematico matematico = new Matematico();
     }
 }
